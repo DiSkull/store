@@ -146,21 +146,19 @@ footer {
 	box-shadow: 0 10px 15px rgba(0,0,0, .4);
 	background-color: white;
 	padding: 20px;
+	top: 0;
 }
 
 #modalw1 {
 	visibility: hidden;
-	margin-top: 130%;
 }
 
 #modalw2 {
 	visibility: hidden;
-	margin-top: 30%;
 }
 
 #modalw3 {
 	visibility: hidden;
-	margin-top: 65%;
 }
 
 #modalw4 {
@@ -173,17 +171,14 @@ footer {
 
 #modalw6 {
 	visibility: hidden;
-	margin-top: 90%;
 }
 
 #modalw7 {
 	visibility: hidden;
-	margin-top: 390%;
 }
 
 #modalw8 {
 	visibility: hidden;
-	margin-top: 105%;
 }
 
 #modalw9 {
@@ -192,12 +187,10 @@ footer {
 
 #modalw10 {
 	visibility: hidden;
-	margin-top: 80%;
 }
 
 #modalw11 {
 	visibility: hidden;
-	margin-top: 810%;
 }
 
 #modalw12 {
@@ -210,11 +203,9 @@ footer {
 
 #modalw14 {
 	visibility: hidden;
-	margin-top: 430%;
 }
 
 #modalw15 {
 	visibility: hidden;
-	margin-top: 545%;
 }
 
